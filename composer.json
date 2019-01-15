@@ -1,0 +1,16 @@
+{
+    "name": "tony/php-mvc",
+    "authors": [
+        {
+            "name": "narawit0",
+            "email": "narawit.kaewbun@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\": "core/",
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}

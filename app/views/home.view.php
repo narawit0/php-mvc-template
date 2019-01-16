@@ -17,11 +17,7 @@
             <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
         </div>
     </div>
-
-    <div class="home">
-        <h1>This is Home Page</h1>
-    </div>
-
+    
     <!-- Footer -->
     <?php require __DIR__ . "/includes/footer.view.php"; ?>
 </body>
